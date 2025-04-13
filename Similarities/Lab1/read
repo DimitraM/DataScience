@@ -1,1 +1,9 @@
 
+Files found in here :
+https://eclass.upatras.gr/modules/document/file.php/CEID1479/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CF%84%CE%B7%CF%81%CE%B9%CE%B1%CE%BA%CE%AD%CF%82%20%CE%91%CF%83%CE%BA%CE%AE%CF%83%CE%B5%CE%B9%CF%82/LAB-1%3A%20Similarity/LAB-1_DATASETS.zip
+
+1. Unzip the files and save them in the same folder as the code
+2. Run the readingDocs.py 
+3. Follow the instructions on the terminal and see what is the similarity between two different documents according to the propability found by 
+    - Jaccard Similarity 
+    - Min Hash Algorithm
